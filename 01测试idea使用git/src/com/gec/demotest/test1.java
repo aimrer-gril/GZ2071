@@ -7,4 +7,6 @@ public class test1 {
     public void aa(){
         System.out.println("sss");
     }
+    public void ss(){}
+
 }
